@@ -38,7 +38,7 @@ The script will ask for some details:
 ## 3️⃣ Link Discord & Telegram
 
 - Go to Discord, open the `#swarm-link` channel  
-    <img src="Swarmlink.png" width="500px" alt="swarmlink" />
+    <img src="Swarmlink.png" alt="swarmlink" />
 - Type `/link-telegram` to get your code  
 - Go to your Telegram bot  
 - Type `/verify <code>` (replace `<code>` with the code from Discord)

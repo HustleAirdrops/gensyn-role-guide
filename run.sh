@@ -6,10 +6,12 @@ wget https://go.dev/dl/go1.22.2.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf go1.22.2.linux-amd64.tar.gz
 
-# Step 2: Set Go path
+# Step 2: Set Go path for current script session
+export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
+
+# Optional: Add to ~/.bashrc for future sessions
 echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
 echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.bashrc
-source ~/.bashrc
 
 # Step 3: Verify Go installation
 go version

@@ -21,7 +21,7 @@ The script will ask for some details:
 - **Telegram Bot Token**  
     - Create a bot: Chat with [@BotFather](https://t.me/BotFather) on Telegram  
     - Send `/newbot` and follow instructions  
-    - Save your bot token
+    - Save your bot token and start the bot
 
 - **Telegram User ID**  
     - Start [@userinfobot](https://t.me/userinfobot)  

@@ -53,4 +53,15 @@ After verification, your Discord and Telegram accounts will be linked, and you'l
 
 ---
 
-✨ Enjoy seamless integration and join the Swarm community!  
+## 5️⃣ To Stop 
+
+Simple Press, Ctrl+C and it will stop.
+
+---
+
+## 💬 Need Help?
+
+- **Direct Support:** [@Legend_Aashish](https://t.me/Legend_Aashish)
+- **Guides & Updates:** [@Hustle_Airdrops](https://t.me/Hustle_Airdrops)
+
+---

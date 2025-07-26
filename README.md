@@ -37,6 +37,7 @@ The script will ask for some details:
 
 ## 3️⃣ Link Discord & Telegram
 
+- Join Discord:- https://discord.gg/gensyn
 - Go to Discord, open the `#swarm-link` channel  
     <img src="Swarmlink.png" alt="swarmlink" />
 - Type `/link-telegram` to get your code  
